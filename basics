@@ -1,0 +1,11 @@
+- Creating and optimizing data pipelines and ETL workflows
+- Integration with different data sources
+- Adding complex transformation logic to make data uniform and understandable.
+- Root Cause Analysis for recurring issues and bugs in the system
+- Requirement gathering using Confluence.
+- Designing software architecture & building Data warehouse.
+- Processing data coming from mobile application using Python.
+- Stream processing using Apache Kafka to execute use cases and populate data into databases
+- Scheduling & Monitoring long running etl Jobs using Apache Airflow.
+- Populating datasets into dimension table and fact tables.
+- Creating small data marts for visualization purpose.
